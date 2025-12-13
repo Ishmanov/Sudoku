@@ -1,0 +1,91 @@
+﻿<Page x:Class="Sudoku.PageGameDiff16"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Sudoku"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="450"
+      Title="Sudoku 16x16"
+      FontFamily="Segoe UI">
+
+    <Page.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="#2C3E50"/>
+            <Setter Property="BorderThickness" Value="0.5"/>
+            <Setter Property="BorderBrush" Value="#ECF0F1"/>
+            <Setter Property="Margin" Value="0"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="Cursor" Value="Pen"/>
+            <Style.Triggers>
+                <Trigger Property="IsFocused" Value="True">
+                    <Setter Property="Background" Value="#E8F6F3"/>
+                    <Setter Property="Foreground" Value="#16A085"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#E74C3C"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#C0392B"/>
+                                <Setter Property="Cursor" Value="Hand"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="#F5F6FA">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="1" Background="#34495E" CornerRadius="5" Margin="5" Height="35">
+                <Label x:Name="LabelTime" Foreground="White" FontWeight="Bold"
+                       VerticalContentAlignment="Center" 
+                       HorizontalContentAlignment="Center">00:00</Label>
+            </Border>
+
+            <Button x:Name="ButtonEnd" Grid.Column="2" Margin="5" Height="35" Background="#2ECC71" Click="ButtonEnd_Click">Завершить</Button>
+            <Button x:Name="ButtonExit" Grid.Column="3" Margin="5" Height="35" Click="ButtonExit_Click">Выйти</Button>
+        </Grid>
+
+        <!-- Основная сетка 16x16 -->
+        <!-- Создана динамически в коде (Code Behind) для компактности, 
+             так как XAML на 256 ячеек слишком громоздкий. 
+             Но контейнер для неё здесь. -->
+        <Border Grid.Row="1" Margin="10" BorderBrush="#7F8C8D" BorderThickness="2">
+            <Grid x:Name="MainSudokuGrid" Background="#BDC3C7">
+                <!-- Сетка генерируется в PageGameDiff16.xaml.cs -->
+            </Grid>
+        </Border>
+    </Grid>
+</Page>
