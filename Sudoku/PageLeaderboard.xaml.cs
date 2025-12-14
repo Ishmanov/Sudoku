@@ -14,6 +14,14 @@ namespace Sudoku
             LoadLeaderboard(1); 
         }
 
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (Window.GetWindow(this) is Window window)
+            {
+                window.Title = "Leaderboard";
+            }
+        }
+
         private void LoadLeaderboard(int difficulty)
         {
             List<ScoreEntry> topScores = Database.GetTopScores(difficulty);

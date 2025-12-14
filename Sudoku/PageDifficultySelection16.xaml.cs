@@ -15,6 +15,14 @@ namespace Sudoku
             InitializeComponent();
         }
 
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (Window.GetWindow(this) is Window window)
+            {
+                window.Title = "Difficulty Selection 16x16";
+            }
+        }
+
         private void SaveDifficultyAndNavigate(int difficulty)
         {
             try

@@ -43,6 +43,14 @@ namespace Sudoku
             timer.Start();
         }
 
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (Window.GetWindow(this) is Window window)
+            {
+                window.Title = "Sudoku Game 9x9";
+            }
+        }
+
         private void ReadSettings()
         {
             try

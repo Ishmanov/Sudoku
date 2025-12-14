@@ -27,6 +27,14 @@ namespace Sudoku
             InitializeComponent();
         }
 
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (Window.GetWindow(this) is Window window)
+            {
+                window.Title = "Difficulty Selection 9x9";
+            }
+        }
+
         public class SettingsData
         {
             public int difficalty { get; set; }

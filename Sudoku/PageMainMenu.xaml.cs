@@ -25,6 +25,14 @@ namespace Sudoku
             InitializeComponent();
         }
 
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (Window.GetWindow(this) is Window window)
+            {
+                window.Title = "Main Menu";
+            }
+        }
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             PageDifficultySelection difficultySelectionPage = new PageDifficultySelection();

@@ -16,6 +16,14 @@ namespace Sudoku
             InitializeComponent();
         }
 
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (Window.GetWindow(this) is Window window)
+            {
+                window.Title = "Registration";
+            }
+        }
+
         private void Button2_Click(object sender, RoutedEventArgs e)
         {
             PageAccount accountPage = new PageAccount();

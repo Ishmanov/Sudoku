@@ -5,7 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Sudoku"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="450" MaxHeight="500" MaxWidth="450" MinHeight="500" MinWidth="450">
+        Title="Account" 
+        Height="500" Width="450" 
+        MaxHeight="1000" MaxWidth="900" 
+        MinHeight="500" MinWidth="450"
+        Icon="ico.ico">
     <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
     
 </Window>

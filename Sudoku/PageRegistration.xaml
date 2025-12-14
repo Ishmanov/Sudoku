@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:Sudoku"
       mc:Ignorable="d" 
       d:DesignHeight="500" d:DesignWidth="450"
-      Title="Registration">
+      Title="Registration" Loaded="Page_Loaded">
 
     <Page.Resources>
         <Style TargetType="Button">

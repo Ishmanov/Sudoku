@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:Sudoku"
       mc:Ignorable="d" 
       d:DesignHeight="500" d:DesignWidth="450"
-      Title="Sudoku 16x16"
+      Title="Sudoku 16x16" Loaded="Page_Loaded"
       FontFamily="Segoe UI">
 
     <Page.Resources>
