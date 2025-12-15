@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Sudoku\\Sudoku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2FD0C9D-AFB2-454B-9E3C-CDB0074DE06D}|UnitTestSudoku\\UnitTestSudoku.csproj|D:\\Sudoku\\Sudoku\\unittestsudoku\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2FD0C9D-AFB2-454B-9E3C-CDB0074DE06D}|UnitTestSudoku\\UnitTestSudoku.csproj|d:\\sudoku\\sudoku\\unittestsudoku\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2FD0C9D-AFB2-454B-9E3C-CDB0074DE06D}|UnitTestSudoku\\UnitTestSudoku.csproj|solutionrelative:unittestsudoku\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|d:\\sudoku\\sudoku\\sudoku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -117,12 +117,7 @@
               "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\MainWindow.xaml",
               "RelativeToolTip": "Sudoku\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-14T16:38:37.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2025-11-14T16:38:37.393Z"
             },
             {
               "$type": "Document",
@@ -136,6 +131,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T10:28:28.951Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
