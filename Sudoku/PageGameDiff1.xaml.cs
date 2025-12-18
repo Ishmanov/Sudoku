@@ -174,7 +174,7 @@ namespace Sudoku
             {
                 HashSet<int> rowSet = new HashSet<int>();
                 for (int j = 0; j < 9; j++)
-                    if (!rowSet.Add(mainArray[i, j])) return $"Повтор в строке {j + 1}.";
+                    if (!rowSet.Add(mainArray[i, j])) return $"Повтор в строке {i + 1}.";
             }
 
             for (int j = 0; j < 9; j++)
@@ -193,7 +193,7 @@ namespace Sudoku
                     {
                         for (int j = blockCol * 3; j < blockCol * 3 + 3; j++)
                         {
-                            if (!boxSet.Add(mainArray[i, j])) return $"Повтор в блоке.";
+                            if (!boxSet.Add(mainArray[i, j])) return $"Повтор в блоке {blockRow * 3 + blockCol + 1}.";
                         }
                     }
                 }
