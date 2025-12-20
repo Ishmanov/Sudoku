@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\Sudoku\\Sudoku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2FD0C9D-AFB2-454B-9E3C-CDB0074DE06D}|UnitTestSudoku\\UnitTestSudoku.csproj|d:\\sudoku\\sudoku\\unittestsudoku\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FD0C9D-AFB2-454B-9E3C-CDB0074DE06D}|UnitTestSudoku\\UnitTestSudoku.csproj|solutionrelative:unittestsudoku\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|d:\\sudoku\\sudoku\\sudoku\\pagegamediff1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pagegamediff1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\Sudoku\\PageDifficultySelection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:Sudoku\\PageDifficultySelection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pagegamediff1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pagegamediff1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pagegamediff16.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pagegamediff16.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pagegamediff16.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pagegamediff16.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0C9D-AFB2-454B-9E3C-CDB0074DE06D}|UnitTestSudoku\\UnitTestSudoku.csproj|D:\\Sudoku\\Sudoku\\unittestsudoku\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0C9D-AFB2-454B-9E3C-CDB0074DE06D}|UnitTestSudoku\\UnitTestSudoku.csproj|solutionrelative:unittestsudoku\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pagedifficultyselection16.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -27,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pageleaderboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:Sudoku\\PageGameDiff1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\Sudoku\\PageAccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:Sudoku\\PageAccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -41,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\Sudoku\\PageMainMenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:Sudoku\\PageMainMenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pagegamediff16.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pagegamediff16.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pagedifficultyselection16.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,16 +75,8 @@
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pageleaderboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pagegamediff1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pagegamediff1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\pageaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\pageaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\Sudoku\\PageDifficultySelection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:Sudoku\\PageDifficultySelection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\Sudoku\\PageMainMenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,20 +91,12 @@
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\sudokugenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\sudokugenerator16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\sudokugenerator16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|D:\\Sudoku\\Sudoku\\sudoku\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96CA95F-67F0-40DE-A3A2-D3E716E1030A}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,30 +106,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Sudoku\\MainWindow.xaml",
-              "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\MainWindow.xaml",
-              "RelativeToolTip": "Sudoku\\MainWindow.xaml",
+              "Title": "PageGameDiff1.xaml",
+              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff1.xaml",
+              "RelativeDocumentMoniker": "Sudoku\\PageGameDiff1.xaml",
+              "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff1.xaml",
+              "RelativeToolTip": "Sudoku\\PageGameDiff1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-14T16:38:37.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\UnitTestSudoku\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnitTestSudoku\\UnitTest1.cs",
-              "ToolTip": "D:\\Sudoku\\Sudoku\\UnitTestSudoku\\UnitTest1.cs",
-              "RelativeToolTip": "UnitTestSudoku\\UnitTest1.cs",
-              "ViewState": "AgIAANMAAAAAAAAAAAAQwPkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T10:28:28.951Z",
+              "WhenOpened": "2025-11-14T17:25:43.382Z",
               "EditorCaption": ""
             },
             {
@@ -138,19 +126,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\UnitTestSudoku\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestSudoku\\UnitTest1.cs",
+              "ToolTip": "D:\\Sudoku\\Sudoku\\UnitTestSudoku\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestSudoku\\UnitTest1.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAIwPkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:28:28.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sudoku\\MainWindow.xaml",
+              "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\MainWindow.xaml",
+              "RelativeToolTip": "Sudoku\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T16:38:37.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\Database.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Database.cs",
+              "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\Database.cs",
+              "RelativeToolTip": "Sudoku\\Database.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAwwMcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:24:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PageGameDiff16.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff16.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageGameDiff16.xaml.cs",
               "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff16.xaml.cs",
               "RelativeToolTip": "Sudoku\\PageGameDiff16.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA5wB0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAOsAAAAAAAAAAADwvwcBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T08:55:55.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PageGameDiff16.xaml",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff16.xaml",
               "RelativeDocumentMoniker": "Sudoku\\PageGameDiff16.xaml",
@@ -161,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PageDifficultySelection16.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageDifficultySelection16.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageDifficultySelection16.xaml.cs",
@@ -173,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "PageDifficultySelection16.xaml",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageDifficultySelection16.xaml",
               "RelativeDocumentMoniker": "Sudoku\\PageDifficultySelection16.xaml",
@@ -184,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SudokuGenerator16.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\SudokuGenerator16.cs",
               "RelativeDocumentMoniker": "Sudoku\\SudokuGenerator16.cs",
@@ -196,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "UserSession.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\UserSession.cs",
               "RelativeDocumentMoniker": "Sudoku\\UserSession.cs",
@@ -208,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "PageRegistration.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageRegistration.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageRegistration.xaml.cs",
@@ -220,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "PageRegistration.xaml",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageRegistration.xaml",
               "RelativeDocumentMoniker": "Sudoku\\PageRegistration.xaml",
@@ -231,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "SudokuGenerator.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\SudokuGenerator.cs",
               "RelativeDocumentMoniker": "Sudoku\\SudokuGenerator.cs",
@@ -243,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "PageLeaderboard.xaml",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageLeaderboard.xaml",
               "RelativeDocumentMoniker": "Sudoku\\PageLeaderboard.xaml",
@@ -254,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "PageLeaderboard.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageLeaderboard.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageLeaderboard.xaml.cs",
@@ -266,31 +290,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "PageGameDiff1.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff1.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageGameDiff1.xaml.cs",
               "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff1.xaml.cs",
               "RelativeToolTip": "Sudoku\\PageGameDiff1.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAKoAAAAAAAAAAADwv8kAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T19:32:09.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\Database.cs",
-              "RelativeDocumentMoniker": "Sudoku\\Database.cs",
-              "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\Database.cs",
-              "RelativeToolTip": "Sudoku\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:24:53.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ScoreEntry.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\ScoreEntry.cs",
               "RelativeDocumentMoniker": "Sudoku\\ScoreEntry.cs",
@@ -302,18 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PageGameDiff1.xaml",
-              "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff1.xaml",
-              "RelativeDocumentMoniker": "Sudoku\\PageGameDiff1.xaml",
-              "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\PageGameDiff1.xaml",
-              "RelativeToolTip": "Sudoku\\PageGameDiff1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-14T17:25:43.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PageAccount.xaml",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageAccount.xaml",
               "RelativeDocumentMoniker": "Sudoku\\PageAccount.xaml",
@@ -324,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "PageAccount.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageAccount.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageAccount.xaml.cs",
@@ -336,19 +337,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "PageDifficultySelection.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageDifficultySelection.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageDifficultySelection.xaml.cs",
               "ToolTip": "D:\\Sudoku\\Sudoku\\Sudoku\\PageDifficultySelection.xaml.cs",
               "RelativeToolTip": "Sudoku\\PageDifficultySelection.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA3wCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T16:38:37.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "PageDifficultySelection.xaml",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageDifficultySelection.xaml",
               "RelativeDocumentMoniker": "Sudoku\\PageDifficultySelection.xaml",
@@ -359,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "PageMainMenu.xaml",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageMainMenu.xaml",
               "RelativeDocumentMoniker": "Sudoku\\PageMainMenu.xaml",
@@ -370,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "PageMainMenu.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\PageMainMenu.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\PageMainMenu.xaml.cs",
@@ -382,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Sudoku\\Sudoku\\Sudoku\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Sudoku\\MainWindow.xaml.cs",

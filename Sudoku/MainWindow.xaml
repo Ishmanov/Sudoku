@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Account" 
         Height="500" Width="450" 
-        MaxHeight="1000" MaxWidth="900" 
+        MaxHeight="800" MaxWidth="720" 
         MinHeight="500" MinWidth="450"
         Icon="ico.ico">
     <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>

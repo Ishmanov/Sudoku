@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\zeusm\OneDrive\Desktop\Sudoku\Sudoku\obj\Release\
+D:\Sudoku\Sudoku\Sudoku\obj\Release\
 Sudoku
 none
 false
 TRACE
-C:\Users\zeusm\OneDrive\Desktop\Sudoku\Sudoku\App.xaml
-7-1949396972
+D:\Sudoku\Sudoku\Sudoku\App.xaml
+9367270077
 
-121245929194
-241683398311
-StyleDictionary.xaml;MainWindow.xaml;PageAccount.xaml;PageDifficultySelection.xaml;PageGameDiff1.xaml;PageLeaderboard.xaml;PageMainMenu.xaml;
+18-574667378
+24-926778925
+MainWindow.xaml;PageAccount.xaml;PageDifficultySelection.xaml;PageDifficultySelection16.xaml;PageGameDiff1.xaml;PageGameDiff16.xaml;PageLeaderboard.xaml;PageMainMenu.xaml;PageRegistration.xaml;
 
-True
+False
 
