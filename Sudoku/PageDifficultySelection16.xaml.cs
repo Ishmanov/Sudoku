@@ -64,10 +64,5 @@ namespace Sudoku
             SaveDifficultyAndNavigate(6); 
         }
 
-        private void Button_Back_Click(object sender, RoutedEventArgs e)
-        {
-            PageDifficultySelection page9x9 = new PageDifficultySelection();
-            this.NavigationService.Navigate(page9x9);
-        }
     }
 }

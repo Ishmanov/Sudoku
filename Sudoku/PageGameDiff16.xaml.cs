@@ -67,7 +67,7 @@ namespace Sudoku
             }
             catch { difficalty = 4; }
 
-            if (difficalty == 4) TargetClues = 160;
+            if (difficalty == 4) TargetClues = 255;
             else if (difficalty == 5) TargetClues = 130;
             else TargetClues = 100;
         }

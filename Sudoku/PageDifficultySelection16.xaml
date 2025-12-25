@@ -50,15 +50,13 @@
 
     <Grid Background="#ECF0F1">
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
-            <TextBlock Text="Судоку 16x16" FontSize="26" FontWeight="Bold" Foreground="#2C3E50" HorizontalAlignment="Center" Margin="0,0,0,10"/>
-            <TextBlock Text="Выберите сложность" FontSize="20" Foreground="#7F8C8D" HorizontalAlignment="Center" Margin="0,0,0,30"/>
+            <TextBlock Text="Выберите сложность" FontSize="26" FontWeight="Bold" Foreground="#2C3E50" HorizontalAlignment="Center" Margin="0,0,0,30"/>
 
             <!-- Используем ID 4, 5, 6 для сложностей 16x16 -->
             <Button Content="Лёгкая (16x16)" Click="Button_Easy_Click"/>
             <Button Content="Средняя (16x16)" Click="Button_Medium_Click"/>
             <Button Content="Сложная (16x16)" Click="Button_Hard_Click"/>
 
-            <Button Content="Назад" Margin="0,30,0,0" Background="#95A5A6" Click="Button_Back_Click"/>
         </StackPanel>
     </Grid>
 </Page>
